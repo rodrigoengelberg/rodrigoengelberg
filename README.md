@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 <h3 align="center">A fullstack developer from Brazil</h3>
 
 <p align="center">
-  Java | Angular | ReactJS | React Native | Node.js
+  Java | Angular | React | React Native | Node.js
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rodrigoengelberg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rodrigo-engelberg" height="25" width="25" /></a>
-<a href="https://medium.com/@rodrigoengelberg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@rodrigoengelberg" height="25" width="25" /></a>
-<a href="https://twitter.com/digaoengelberg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@digaoengelberg" height="25" width="25" /></a>
+<a href="https://www.linkedin.com/in/rodrigoengelberg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="rodrigo-engelberg" height="25" width="25" /></a>
+<a href="https://medium.com/@rodrigoengelberg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" alt="@rodrigoengelberg" height="25" width="25" /></a>
+<a href="https://twitter.com/digaoengelberg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="@digaoengelberg" height="25" width="25" /></a>
 </p>
 
 - 🔭 I’m currently working on **[TSE - SPCA](https://divulgaspca.tse.jus.br)** with Angular, sometimes with Javascript, sometimes with Typescript, It's cool.
