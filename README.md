@@ -27,9 +27,10 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rodrigoengelberg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="rodrigo-engelberg" height="25" width="25" /></a>
-<a href="https://medium.com/@rodrigoengelberg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" alt="@rodrigoengelberg" height="25" width="25" /></a>
-<a href="https://twitter.com/digaoengelberg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="@digaoengelberg" height="25" width="25" /></a>
+  [![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Engelberg-6E40C9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigoengelberg/)](https://www.linkedin.com/in/rodrigoengelberg/)
+  [![Medium Badge](https://img.shields.io/badge/-Rodrigo%20Engelberg-6E40C9?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@rodrigoengelberg/)](https://medium.com/@rodrigoengelberg/)
+  [![Twitter Badge](https://img.shields.io/badge/-Rodrigo%20Engelberg-6E40C9?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/digaoengelberg/)](https://twitter.com/digaoengelberg/)
+  [![Gmail Badge](https://img.shields.io/badge/-rodrigoengelberg@gmail.com-6E40C9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigoengelberg@gmail.com)](mailto:rodrigoengelberg@gmail.com)
 </p>
 
 - 🔭 I’m currently working on **[TSE - SPCA](https://divulgaspca.tse.jus.br)** with Angular, sometimes with Javascript, sometimes with Typescript, It's cool.
