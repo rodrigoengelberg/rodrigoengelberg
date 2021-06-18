@@ -22,15 +22,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Rodrigo Engelberg</h1>
 <h3 align="center">A fullstack developer from Brazil</h3>
 
+
 <p align="center">
   Java | Angular | React | React Native | Node.js
 </p>
-
-
-  [![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Engelberg-6E40C9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigoengelberg/)](https://www.linkedin.com/in/rodrigoengelberg/)
-  [![Medium Badge](https://img.shields.io/badge/-Rodrigo%20Engelberg-6E40C9?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@rodrigoengelberg/)](https://medium.com/@rodrigoengelberg/)
-  [![Twitter Badge](https://img.shields.io/badge/-Rodrigo%20Engelberg-6E40C9?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/digaoengelberg/)](https://twitter.com/digaoengelberg/)
-  [![Gmail Badge](https://img.shields.io/badge/-rodrigoengelberg@gmail.com-6E40C9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigoengelberg@gmail.com)](mailto:rodrigoengelberg@gmail.com)
 
 
 - 🔭 I’m currently working on **[TSE - SPCA](https://divulgaspca.tse.jus.br)** with Angular, sometimes with Javascript, sometimes with Typescript, It's cool.
@@ -39,6 +34,13 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help to learn about **Machine Learn and I.A.**, I think this amazing.
 - ⚡ Fun fact: I love heavy metal, games, aviation and consider me a nerd with social life.
 
+
 <p align="center">
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=rodrigoengelberg&show_icons=true&theme=tokyonight">
 </p>
+
+
+  [![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Engelberg-6E40C9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigoengelberg/)](https://www.linkedin.com/in/rodrigoengelberg/)
+  [![Medium Badge](https://img.shields.io/badge/-Medium-6E40C9?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@rodrigoengelberg/)](https://medium.com/@rodrigoengelberg/)
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-6E40C9?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/digaoengelberg/)](https://twitter.com/digaoengelberg/)
+  [![Gmail Badge](https://img.shields.io/badge/-rodrigoengelberg@gmail.com-6E40C9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigoengelberg@gmail.com)](mailto:rodrigoengelberg@gmail.com)
