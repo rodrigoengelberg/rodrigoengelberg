@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </p>
 
 
-- 🔭 I’m currently working on **[TSE - SPCA](https://divulgaspca.tse.jus.br)** with Angular, sometimes with Javascript, sometimes with Typescript, It's cool.
+- 🔭 I’m currently working with Frontend using Angular/React, sometimes with Backend using Java or Node, It's cool.
 - 🌱 I’m currently learning **Docker and Cloud (CGP, Azure and AWS)**, these things are crazy.
 - 📝 I'm always learning **Clean Code, SOLID and Patterns**, please, let's have a good code, please.
 - 🤔 I’m looking for help to learn about **Machine Learn and I.A.**, I think this amazing.
