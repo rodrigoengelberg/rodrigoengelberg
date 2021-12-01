@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  Java | Angular | React | React Native | Node.js
+  Java | NodeJS | Angular | React | React Native | Ionic
 </p>
 
 
