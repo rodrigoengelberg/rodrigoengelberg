@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github.com/rodrigoengelberg/rodrigoengelberg/blob/master/.github/banner_2.svg" width="80%" alt="Banner" />
+  <img src="https://github.com/rodrigoengelberg/rodrigoengelberg/blob/master/.github/banner_2.svg" width="60%" alt="Banner" />
   <!--<img src="https://github.com/rodrigoengelberg/rodrigoengelberg/blob/master/.github/I_will_fix_you.png" width="40%" alt="Debugging" />-->
   <!--<img src="https://github.com/rodrigoengelberg/rodrigoengelberg/blob/master/.github/programming_tired.jpg" width="40%" alt="Programming" />-->
   <!--<img src="https://github.com/rodrigoengelberg/rodrigoengelberg/blob/master/.github/I-turn-coffee-into-code.png" width="40%" alt="Code" />-->
