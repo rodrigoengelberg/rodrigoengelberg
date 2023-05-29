@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Docker and Cloud (CGP, Azure and AWS)**, these things are crazy.
 - 📝 I'm always learning **Clean Code, SOLID and Patterns**, please, let's have a good code, please.
 - 🤔 I’m looking for help to learn about **Machine Learn and I.A.**, I think this amazing.
-- ⚡ Fun fact: I love heavy metal, games, aviation and consider me a nerd with social life.
+- ⚡ Fun fact: I love heavy metal, games, aviation, formula 1, science, movies and consider me a nerd with social life.
 
 <br/>
 
