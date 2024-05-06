@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  Java | NodeJS | Angular | React | React Native | Ionic
+  Java | NodeJS | Angular | React | Ionic
 </p>
 
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6E40C9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigoengelberg/)](https://www.linkedin.com/in/rodrigoengelberg/)
+  <!--[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6E40C9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigoengelberg/)](https://www.linkedin.com/in/rodrigoengelberg/)
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-6E40C9?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/digaoengelberg/)](https://twitter.com/digaoengelberg/)-->
   [![Medium Badge](https://img.shields.io/badge/-Medium-6E40C9?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@rodrigoengelberg/)](https://medium.com/@rodrigoengelberg/)
-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-6E40C9?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/digaoengelberg/)](https://twitter.com/digaoengelberg/)
   [![Gmail Badge](https://img.shields.io/badge/-rodrigoengelberg@gmail.com-6E40C9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigoengelberg@gmail.com)](mailto:rodrigoengelberg@gmail.com)
